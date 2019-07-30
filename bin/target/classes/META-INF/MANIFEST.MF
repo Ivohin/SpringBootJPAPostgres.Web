@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: EUGENE_Note10
+Build-Jdk: 11.0.2
+Implementation-Title: springjpapostgres
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javamaster
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springjpapostgres
+Created-By: Maven Integration for Eclipse
+
